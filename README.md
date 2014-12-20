@@ -186,5 +186,5 @@ Also, the sample has two more tiny data set (`simple.dat`, `test.dat`) for testi
 Absolutely, it is totally open source and under [MIT License](https://github.com/gokercebeci/ann/blob/master/LICENSE.md "MIT License")
 
 ##Bibliography
-[k-nearest neighbors algorithm, Wikipedia](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
-Jason Brownlee, September 12, 2014, [Tutorial To Implement k-Nearest Neighbors in Python From Scratch](http://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)
+  *  [k-nearest neighbors algorithm, Wikipedia](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+  *  Jason Brownlee, September 12, 2014, [Tutorial To Implement k-Nearest Neighbors in Python From Scratch](http://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)
